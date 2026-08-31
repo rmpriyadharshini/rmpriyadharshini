@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=R%20M%20PRIYADHARSHINI&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Materials%20%26%20Nanoscience%20Researcher&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=R%20M%20PRIYADHARSHINI&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Materials%20and%20Nanoscience%20Researcher&descAlignY=55&descSize=20" width="100%" alt="header banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=D4AF37&center=true&vCenter=true&width=800&lines=Nanostructured+Nd%E2%82%82O%E2%82%83+for+X-Ray+Shielding;Biomass-Derived+Supercapacitor+Electrodes;XRD+%C2%B7+FTIR+%C2%B7+TEM+%C2%B7+UV-DRS+%C2%B7+CV+%C2%B7+GCD+%C2%B7+EIS;GATE+2026+Qualified+%E2%80%94+Physics+(PH)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=D4AF37&center=true&vCenter=true&width=800&lines=Nanostructured+Nd%E2%82%82O%E2%82%83+for+X-Ray+Shielding;Biomass-Derived+Supercapacitor+Electrodes;XRD+%C2%B7+FTIR+%C2%B7+TEM+%C2%B7+UV-DRS+%C2%B7+CV+%C2%B7+GCD+%C2%B7+EIS;GATE+2026+Qualified+%E2%80%94+Physics+%28PH%29" alt="typing banner" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Relocate%20%E2%80%94%20Bengaluru-1B2A4A?style=for-the-badge)
 ![Degree](https://img.shields.io/badge/M.Sc.-Nanoscience%20%26%20Nanotechnology-1B2A4A?style=for-the-badge)
@@ -16,74 +16,60 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=ABOUT%20ME&fontSize=28&fontColor=fff&fontAlignY=55" width="100%"/>
-
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
-M.Sc. Nanoscience and Nanotechnology graduate (University of Madras) with hands-on research across **materials synthesis, structural characterization, and electrochemical evaluation of energy-storage materials**.
-
-My dissertation work engineered nanostructured **Nd₂O₃ for X-ray shielding**, and my research internship at **IIT Madras** took biomass-derived carbon from raw material to a working supercapacitor electrode — spanning synthesis, characterization, and electrochemical testing end to end.
-
-🔭 &nbsp;**Researching:** Materials characterization, phase transformations, functional & energy-storage materials
-📍 &nbsp;**Based in:** Chennai, Tamil Nadu — open to relocating to Bengaluru
-🎯 &nbsp;**Seeking:** R&D / JRF roles in materials science, nanomaterials, energy materials
-✉️ &nbsp;**Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220"/>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=ABOUT%20ME&fontSize=28&fontColor=fff&fontAlignY=55" width="100%" alt="about me section header"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=HIGHLIGHTED%20ACHIEVEMENTS&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
+M.Sc. Nanoscience and Nanotechnology graduate (University of Madras) with hands-on research across **materials synthesis, structural characterization, and electrochemical evaluation of energy-storage materials**.
+
+My dissertation engineered nanostructured **Nd₂O₃ for X-ray shielding**, and my research internship at **IIT Madras** took biomass-derived carbon from raw material to a working supercapacitor electrode — spanning synthesis, characterization, and electrochemical testing end to end.
+
+- 🔭 **Researching:** Materials characterization, phase transformations, functional & energy-storage materials
+- 📍 **Based in:** Chennai, Tamil Nadu — open to relocating to Bengaluru
+- 🎯 **Seeking:** R&D / JRF roles in materials science, nanomaterials, energy materials
+- ✉️ **Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=HIGHLIGHTED%20ACHIEVEMENTS&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="highlighted achievements section header"/>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
 
-### 🥇
-**GATE 2026**
-Physics (PH)
-**Score 399** · Marks 29.0
+<td align="center" width="25%">
+<h3>🥇</h3>
+<b>GATE 2026</b><br/>
+Physics (PH)<br/>
+<b>Score 399</b> · Marks 29.0<br/>
 <sub>Valid till Mar 2029</sub>
-
 </td>
-<td align="center" width="25%">
 
-### 🧪
-**IIT Madras**
-Research Internship
-Supercapacitor Electrodes
+<td align="center" width="25%">
+<h3>🧪</h3>
+<b>IIT Madras</b><br/>
+Research Internship<br/>
+Supercapacitor Electrodes<br/>
 <sub>May – Jul 2025</sub>
-
 </td>
-<td align="center" width="25%">
 
-### ☢️
-**M.Sc. Dissertation**
-Nd₂O₃ X-Ray Shielding
-Full synthesis-to-testing pipeline
+<td align="center" width="25%">
+<h3>☢️</h3>
+<b>M.Sc. Dissertation</b><br/>
+Nd₂O₃ X-Ray Shielding<br/>
+Full synthesis-to-testing pipeline<br/>
 <sub>Dec 2025 – Apr 2026</sub>
-
 </td>
+
 <td align="center" width="25%">
-
-### 📜
-**5 Certifications**
-CVD · Photonics · Plastics Tech
-Origin & MathType · Floranix
+<h3>📜</h3>
+<b>5 Certifications</b><br/>
+CVD · Photonics · Plastics Tech<br/>
+Origin & MathType · Floranix<br/>
 <sub>2023 – 2026</sub>
-
 </td>
+
 </tr>
 </table>
 
@@ -91,12 +77,12 @@ Origin & MathType · Floranix
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=CORE%20EXPERTISE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=CORE%20EXPERTISE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="core expertise section header"/>
 
 <div align="center">
 
 **🔬 Materials Characterization**
-
+<br/>
 ![XRD](https://img.shields.io/badge/XRD-1B2A4A?style=for-the-badge)
 ![Rietveld](https://img.shields.io/badge/Rietveld%20Refinement-1B2A4A?style=for-the-badge)
 ![FTIR](https://img.shields.io/badge/FTIR-1B2A4A?style=for-the-badge)
@@ -105,19 +91,19 @@ Origin & MathType · Floranix
 ![SAED](https://img.shields.io/badge/SAED-1B2A4A?style=for-the-badge)
 
 **⚡ Electrochemical Characterization**
-
+<br/>
 ![CV](https://img.shields.io/badge/Cyclic%20Voltammetry-2E6F95?style=for-the-badge)
 ![GCD](https://img.shields.io/badge/Galvanostatic%20Charge--Discharge-2E6F95?style=for-the-badge)
 ![EIS](https://img.shields.io/badge/EIS-2E6F95?style=for-the-badge)
 
 **⚗️ Nanomaterial Synthesis**
-
+<br/>
 ![Precipitation](https://img.shields.io/badge/Precipitation-6B4F8F?style=for-the-badge)
 ![Calcination](https://img.shields.io/badge/Calcination-6B4F8F?style=for-the-badge)
 ![Pellet Fabrication](https://img.shields.io/badge/Pellet%20Fabrication-6B4F8F?style=for-the-badge)
 
 **💻 Data Analysis & Software**
-
+<br/>
 ![Origin](https://img.shields.io/badge/OriginLab-D4AF37?style=for-the-badge&logoColor=black)
 ![ImageJ](https://img.shields.io/badge/ImageJ-D4AF37?style=for-the-badge&logoColor=black)
 ![ZSimpWin](https://img.shields.io/badge/ZSimpWin-D4AF37?style=for-the-badge&logoColor=black)
@@ -125,9 +111,9 @@ Origin & MathType · Floranix
 ![MS Office](https://img.shields.io/badge/Microsoft%20Office-D4AF37?style=for-the-badge&logoColor=black)
 
 **🧰 Laboratory & Research Skills**
-
+<br/>
 ![Sample Prep](https://img.shields.io/badge/Sample%20Preparation-4A5A6A?style=for-the-badge)
-![Instrument Handling](https://img.shields.io/badge/Instrument%20Handling%20%26%20Calibration-4A5A6A?style=for-the-badge)
+![Instrument Handling](https://img.shields.io/badge/Instrument%20Handling-4A5A6A?style=for-the-badge)
 ![GLP](https://img.shields.io/badge/Good%20Laboratory%20Practices-4A5A6A?style=for-the-badge)
 ![Technical Writing](https://img.shields.io/badge/Technical%20Report%20Writing-4A5A6A?style=for-the-badge)
 
@@ -135,7 +121,7 @@ Origin & MathType · Floranix
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20EXPERIENCE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20EXPERIENCE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="research experience section header"/>
 
 <details open>
 <summary><b>🧪 M.Sc. Research Intern · Indian Institute of Technology Madras</b> &nbsp;<sub>May 2025 – Jul 2025</sub></summary>
@@ -177,7 +163,7 @@ Origin & MathType · Floranix
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=FEATURED%20RESEARCH%20PROJECTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=FEATURED%20RESEARCH%20PROJECTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="featured research projects section header"/>
 
 <div align="center">
 
@@ -191,7 +177,7 @@ Origin & MathType · Floranix
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=EDUCATION%20%26%20QUALIFICATIONS&fontSize=22&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=EDUCATION%20AND%20QUALIFICATIONS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%" alt="education and qualifications section header"/>
 
 <div align="center">
 
@@ -206,15 +192,15 @@ Origin & MathType · Floranix
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20INTERESTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20INTERESTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="research interests section header"/>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Materials%20Characterization%20%26%20Structural%20Analysis-1B2A4A?style=flat-square)
-![](https://img.shields.io/badge/Materials%20Interfaces%20%26%20Phase%20Transformations-1B2A4A?style=flat-square)
-![](https://img.shields.io/badge/Advanced%20Functional%20Materials-1B2A4A?style=flat-square)
-![](https://img.shields.io/badge/Nanomaterials%20%26%20Nanostructured%20Materials-1B2A4A?style=flat-square)
-![](https://img.shields.io/badge/Energy--Storage%20Materials-1B2A4A?style=flat-square)
+![Materials Characterization and Structural Analysis](https://img.shields.io/badge/Materials%20Characterization%20%26%20Structural%20Analysis-1B2A4A?style=flat-square)
+![Materials Interfaces and Phase Transformations](https://img.shields.io/badge/Materials%20Interfaces%20%26%20Phase%20Transformations-1B2A4A?style=flat-square)
+![Advanced Functional Materials](https://img.shields.io/badge/Advanced%20Functional%20Materials-1B2A4A?style=flat-square)
+![Nanomaterials and Nanostructured Materials](https://img.shields.io/badge/Nanomaterials%20%26%20Nanostructured%20Materials-1B2A4A?style=flat-square)
+![Energy-Storage Materials](https://img.shields.io/badge/Energy--Storage%20Materials-1B2A4A?style=flat-square)
 
 </div>
 
@@ -222,6 +208,6 @@ Origin & MathType · Floranix
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Collaborate%20on%20Research&fontSize=18&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Open%20to%20Research%20Collaboration&fontSize=18&fontColor=fff&animation=twinkling" width="100%" alt="footer banner"/>
 
 </div>
