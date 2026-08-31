@@ -1,91 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=R%20M%20Priyadharshini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Materials%20%26%20Nanoscience%20Researcher%20%7C%20Energy%20Storage%20%C2%B7%20X-Ray%20Shielding%20%C2%B7%20Characterization&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=R%20M%20PRIYADHARSHINI&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Materials%20%26%20Nanoscience%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=M.Sc.+Nanoscience+%26+Nanotechnology+Graduate;GATE+2026+Qualified+%7C+Physics+(PH);Nd%E2%82%82O%E2%82%83+Synthesis+%C2%B7+X-Ray+Shielding+Research;Supercapacitor+Electrodes+%C2%B7+Electrochemistry;Open+to+R%26D+Roles+%C2%B7+Chennai+%E2%86%92+Bengaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=D4AF37&center=true&vCenter=true&width=800&lines=Nanostructured+Nd%E2%82%82O%E2%82%83+for+X-Ray+Shielding;Biomass-Derived+Supercapacitor+Electrodes;XRD+%C2%B7+FTIR+%C2%B7+TEM+%C2%B7+UV-DRS+%C2%B7+CV+%C2%B7+GCD+%C2%B7+EIS;GATE+2026+Qualified+%E2%80%94+Physics+(PH)" alt="Typing SVG" />
 </a>
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Relocate%20%E2%80%94%20Bengaluru-1B2A4A?style=for-the-badge)
+![Degree](https://img.shields.io/badge/M.Sc.-Nanoscience%20%26%20Nanotechnology-1B2A4A?style=for-the-badge)
+![GATE](https://img.shields.io/badge/GATE%202026-Qualified%20%7C%20Score%20399-D4AF37?style=for-the-badge)
 
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=ABOUT%20ME&fontSize=28&fontColor=fff&fontAlignY=55" width="100%"/>
 
-```yaml
-researcher:
-  name: "R M Priyadharshini"
-  location: "Chennai, Tamil Nadu, India"
-  degree: "M.Sc. Nanoscience & Nanotechnology — University of Madras"
-  qualification: "GATE 2026 (Physics) — Score 399"
-  focus_areas:
-    - Materials Characterization & Structural Analysis
-    - Nanomaterials & Nanostructured Materials
-    - Energy-Storage Materials
-    - Advanced Functional Materials
-  currently_exploring:
-    - Electrochemical Impedance Spectroscopy (EIS) modeling
-    - Rietveld refinement workflows
-  fun_fact: "Once quantified glucose, cholesterol & haemoglobin in the same afternoon using UV-Vis spectroscopy 🧪"
-  status: () => "Open to relocating to Bengaluru for R&D roles"
-```
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
-<br clear="right"/>
+M.Sc. Nanoscience and Nanotechnology graduate (University of Madras) with hands-on research across **materials synthesis, structural characterization, and electrochemical evaluation of energy-storage materials**.
 
-## 🔬 Technical Toolkit
+My dissertation work engineered nanostructured **Nd₂O₃ for X-ray shielding**, and my research internship at **IIT Madras** took biomass-derived carbon from raw material to a working supercapacitor electrode — spanning synthesis, characterization, and electrochemical testing end to end.
 
-**Materials Characterization**
-<br/>
-![XRD](https://img.shields.io/badge/XRD-2E3440?style=flat-square)
-![Rietveld Refinement](https://img.shields.io/badge/Rietveld%20Refinement-2E3440?style=flat-square)
-![FTIR](https://img.shields.io/badge/FTIR-2E3440?style=flat-square)
-![UV-DRS](https://img.shields.io/badge/UV--DRS-2E3440?style=flat-square)
-![TEM](https://img.shields.io/badge/TEM-2E3440?style=flat-square)
-![SAED](https://img.shields.io/badge/SAED-2E3440?style=flat-square)
+🔭 &nbsp;**Researching:** Materials characterization, phase transformations, functional & energy-storage materials
+📍 &nbsp;**Based in:** Chennai, Tamil Nadu — open to relocating to Bengaluru
+🎯 &nbsp;**Seeking:** R&D / JRF roles in materials science, nanomaterials, energy materials
+✉️ &nbsp;**Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
 
-**Electrochemical Characterization**
-<br/>
-![CV](https://img.shields.io/badge/Cyclic%20Voltammetry-70A5FD?style=flat-square)
-![GCD](https://img.shields.io/badge/Galvanostatic%20Charge--Discharge-70A5FD?style=flat-square)
-![EIS](https://img.shields.io/badge/EIS-70A5FD?style=flat-square)
+</td>
+<td width="30%" align="center">
 
-**Nanomaterial Synthesis**
-<br/>
-![Precipitation](https://img.shields.io/badge/Precipitation-BF91F3?style=flat-square)
-![Calcination](https://img.shields.io/badge/Calcination-BF91F3?style=flat-square)
-![Pellet Fabrication](https://img.shields.io/badge/Pellet%20Fabrication-BF91F3?style=flat-square)
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220"/>
 
-**Data Analysis & Software**
-<br/>
-![Origin](https://img.shields.io/badge/OriginLab-38BDAE?style=flat-square)
-![ImageJ](https://img.shields.io/badge/ImageJ-38BDAE?style=flat-square)
-![ZSimpWin](https://img.shields.io/badge/ZSimpWin-38BDAE?style=flat-square)
-![FPS](https://img.shields.io/badge/FPS%20(XRD%20refinement)-38BDAE?style=flat-square)
-![MS Office](https://img.shields.io/badge/Microsoft%20Office-38BDAE?style=flat-square)
-![MathType](https://img.shields.io/badge/MathType-38BDAE?style=flat-square)
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 📊 Research Snapshot
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=HIGHLIGHTED%20ACHIEVEMENTS&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-| GATE 2026 Score | GATE Marks | M.Sc. CGPA | B.Sc. CGPA | Scorecard Valid |
-|:---:|:---:|:---:|:---:|:---:|
-| **399** | **29.0** | **7.362** | **7.451** | Mar 2029 |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🥇
+**GATE 2026**
+Physics (PH)
+**Score 399** · Marks 29.0
+<sub>Valid till Mar 2029</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🧪
+**IIT Madras**
+Research Internship
+Supercapacitor Electrodes
+<sub>May – Jul 2025</sub>
+
+</td>
+<td align="center" width="25%">
+
+### ☢️
+**M.Sc. Dissertation**
+Nd₂O₃ X-Ray Shielding
+Full synthesis-to-testing pipeline
+<sub>Dec 2025 – Apr 2026</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📜
+**5 Certifications**
+CVD · Photonics · Plastics Tech
+Origin & MathType · Floranix
+<sub>2023 – 2026</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 🧪 Research Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=CORE%20EXPERTISE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
 
-<details>
-<summary><b>M.Sc. Research Intern · Indian Institute of Technology Madras</b> — May 2025 to Jul 2025</summary>
+<div align="center">
+
+**🔬 Materials Characterization**
+
+![XRD](https://img.shields.io/badge/XRD-1B2A4A?style=for-the-badge)
+![Rietveld](https://img.shields.io/badge/Rietveld%20Refinement-1B2A4A?style=for-the-badge)
+![FTIR](https://img.shields.io/badge/FTIR-1B2A4A?style=for-the-badge)
+![UV-DRS](https://img.shields.io/badge/UV--DRS-1B2A4A?style=for-the-badge)
+![TEM](https://img.shields.io/badge/TEM-1B2A4A?style=for-the-badge)
+![SAED](https://img.shields.io/badge/SAED-1B2A4A?style=for-the-badge)
+
+**⚡ Electrochemical Characterization**
+
+![CV](https://img.shields.io/badge/Cyclic%20Voltammetry-2E6F95?style=for-the-badge)
+![GCD](https://img.shields.io/badge/Galvanostatic%20Charge--Discharge-2E6F95?style=for-the-badge)
+![EIS](https://img.shields.io/badge/EIS-2E6F95?style=for-the-badge)
+
+**⚗️ Nanomaterial Synthesis**
+
+![Precipitation](https://img.shields.io/badge/Precipitation-6B4F8F?style=for-the-badge)
+![Calcination](https://img.shields.io/badge/Calcination-6B4F8F?style=for-the-badge)
+![Pellet Fabrication](https://img.shields.io/badge/Pellet%20Fabrication-6B4F8F?style=for-the-badge)
+
+**💻 Data Analysis & Software**
+
+![Origin](https://img.shields.io/badge/OriginLab-D4AF37?style=for-the-badge&logoColor=black)
+![ImageJ](https://img.shields.io/badge/ImageJ-D4AF37?style=for-the-badge&logoColor=black)
+![ZSimpWin](https://img.shields.io/badge/ZSimpWin-D4AF37?style=for-the-badge&logoColor=black)
+![FPS](https://img.shields.io/badge/FPS%20Refinement-D4AF37?style=for-the-badge&logoColor=black)
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-D4AF37?style=for-the-badge&logoColor=black)
+
+**🧰 Laboratory & Research Skills**
+
+![Sample Prep](https://img.shields.io/badge/Sample%20Preparation-4A5A6A?style=for-the-badge)
+![Instrument Handling](https://img.shields.io/badge/Instrument%20Handling%20%26%20Calibration-4A5A6A?style=for-the-badge)
+![GLP](https://img.shields.io/badge/Good%20Laboratory%20Practices-4A5A6A?style=for-the-badge)
+![Technical Writing](https://img.shields.io/badge/Technical%20Report%20Writing-4A5A6A?style=for-the-badge)
+
+</div>
+
 <br/>
 
-> `Supercapacitor Electrode Fabrication and Electrochemical Testing`
-> ![CV](https://img.shields.io/badge/-CV-70A5FD?style=flat-square) ![GCD](https://img.shields.io/badge/-GCD-70A5FD?style=flat-square) ![EIS](https://img.shields.io/badge/-EIS-70A5FD?style=flat-square) ![Origin](https://img.shields.io/badge/-Origin-38BDAE?style=flat-square) ![ZSimpWin](https://img.shields.io/badge/-ZSimpWin-38BDAE?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20EXPERIENCE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%"/>
+
+<details open>
+<summary><b>🧪 M.Sc. Research Intern · Indian Institute of Technology Madras</b> &nbsp;<sub>May 2025 – Jul 2025</sub></summary>
+<br/>
+
+**Supercapacitor Electrode Fabrication and Electrochemical Testing**
 
 - Fabricated biomass-derived activated carbon electrodes for supercapacitor applications
 - Assembled and evaluated 2-electrode and 3-electrode supercapacitor systems
@@ -94,12 +150,11 @@ researcher:
 
 </details>
 
-<details>
-<summary><b>M.Sc. Dissertation · University of Madras</b> — Dec 2025 to Apr 2026</summary>
+<details open>
+<summary><b>☢️ M.Sc. Dissertation · University of Madras</b> &nbsp;<sub>Dec 2025 – Apr 2026</sub></summary>
 <br/>
 
-> `Synthesis and Characterization of Neodymium Oxide for X-Ray Shielding Applications`
-> ![XRD](https://img.shields.io/badge/-XRD-2E3440?style=flat-square) ![FTIR](https://img.shields.io/badge/-FTIR-2E3440?style=flat-square) ![UV--DRS](https://img.shields.io/badge/-UV--DRS-2E3440?style=flat-square) ![TEM](https://img.shields.io/badge/-TEM-2E3440?style=flat-square) ![SAED](https://img.shields.io/badge/-SAED-2E3440?style=flat-square)
+**Synthesis and Characterization of Neodymium Oxide for X-Ray Shielding Applications**
 
 - Synthesized nanostructured Nd₂O₃ using precipitation and calcination methods
 - Characterized materials using XRD, FTIR, UV-DRS, TEM, and SAED
@@ -109,11 +164,10 @@ researcher:
 </details>
 
 <details>
-<summary><b>B.Sc. Intern · Floranix</b> — 18 May 2023 to 29 May 2023</summary>
+<summary><b>🔧 B.Sc. Intern · Floranix</b> &nbsp;<sub>18 – 29 May 2023</sub></summary>
 <br/>
 
-> `Bluetooth-Controlled Door Automation System`
-> ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-BF91F3?style=flat-square)
+**Bluetooth-Controlled Door Automation System**
 
 - Developed an embedded door automation system using ATmega328 and HC-05 Bluetooth module
 - Integrated Android-based wireless control with servo motor operation
@@ -123,65 +177,51 @@ researcher:
 
 <br/>
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=FEATURED%20RESEARCH%20PROJECTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
 | Project | Focus | Highlights |
 |---|---|---|
-| **Nd₂O₃ for X-Ray Shielding** <br/><sub>M.Sc. Dissertation, University of Madras</sub> | Nanostructured oxide synthesis & shielding evaluation | Precipitation–calcination synthesis · XRD/FTIR/UV-DRS/TEM/SAED characterization · pellet-level X-ray shielding testing |
-| **Biomass-Derived Activated Carbon Electrodes** <br/><sub>IIT Madras Research Internship</sub> | Supercapacitor electrode development | 2- and 3-electrode cell assembly · CV/GCD/EIS testing · ZSimpWin impedance modeling |
-| **UV-Vis Quantification of Biomolecules** <br/><sub>B.Sc. Final Year Project, JBAS College</sub> | Spectrophotometric bioanalysis | Beer–Lambert calibration curves for glucose, cholesterol, protein & haemoglobin |
+| **☢️ Nd₂O₃ for X-Ray Shielding** <br/><sub>M.Sc. Dissertation</sub> | Nanostructured oxide synthesis & shielding evaluation | Precipitation–calcination synthesis · XRD/FTIR/UV-DRS/TEM/SAED · pellet-level shielding testing |
+| **⚡ Activated Carbon Supercapacitor Electrodes** <br/><sub>IIT Madras Internship</sub> | Biomass-derived electrode development | 2- & 3-electrode assembly · CV/GCD/EIS · ZSimpWin impedance modeling |
+| **🧫 UV-Vis Quantification of Biomolecules** <br/><sub>B.Sc. Final Year Project</sub> | Spectrophotometric bioanalysis | Beer–Lambert calibration curves for glucose, cholesterol, protein & haemoglobin |
 
 </div>
 
 <br/>
 
-## 🏆 Qualifications & Certificates
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=EDUCATION%20%26%20QUALIFICATIONS&fontSize=22&fontColor=fff&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-| | Achievement | Details |
-|:---:|---|---|
-| 🎓 | **GATE 2026 — Physics (PH)** | Qualified · Score 399 · Marks 29.0 |
-| 🧫 | **Semiconductor Materials & CVD Device Structures** | Participation Certificate, Feb 2024 |
-| 💡 | **Photonics and its Applications** | Participation Certificate, Jan 2024 |
-| ⚙️ | **Fundamentals of Plastics Technology Workshop** | Participation Certificate, Mar 2026 |
-| 📈 | **Scientific Software Tools (Origin & MathType)** | Skill Development Training, Jun 2023 |
-| 🔧 | **Floranix Internship** | Completion Certificate, Feb 2024 |
-
-</div>
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
+| Degree | Institution | Duration | Score |
 |---|---|:---:|:---:|
 | M.Sc. Nanoscience & Nanotechnology | University of Madras, Chennai | 2024 – 2026 | CGPA 7.362 |
 | B.Sc. Physics | JBAS College for Women, Chennai | 2021 – 2024 | CGPA 7.451 |
 
+**Certifications:** Semiconductor Materials & CVD Device Structures (Feb 2024) · Photonics and its Applications (Jan 2024) · Fundamentals of Plastics Technology Workshop (Mar 2026) · Scientific Software Tools — Origin & MathType (Jun 2023) · Floranix Internship (Feb 2024)
+
 </div>
 
 <br/>
 
-```text
-🔭 Currently Exploring
-   Materials Interfaces → Phase Transformations
-   Energy-Storage Materials → Next-gen electrode chemistries
-   Functional Materials → Structure–property relationships
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20INTERESTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%"/>
 
-📍 Based in Chennai · Open to relocating to Bengaluru for R&D roles
-```
+<div align="center">
+
+![](https://img.shields.io/badge/Materials%20Characterization%20%26%20Structural%20Analysis-1B2A4A?style=flat-square)
+![](https://img.shields.io/badge/Materials%20Interfaces%20%26%20Phase%20Transformations-1B2A4A?style=flat-square)
+![](https://img.shields.io/badge/Advanced%20Functional%20Materials-1B2A4A?style=flat-square)
+![](https://img.shields.io/badge/Nanomaterials%20%26%20Nanostructured%20Materials-1B2A4A?style=flat-square)
+![](https://img.shields.io/badge/Energy--Storage%20Materials-1B2A4A?style=flat-square)
+
+</div>
 
 <br/>
 
 <div align="center">
 
-📫 **Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Collaborate%20on%20Research&fontSize=18&fontColor=fff&animation=twinkling" width="100%"/>
 
 </div>
