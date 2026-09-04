@@ -1,169 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SUPERCAPACITOR%20PROTOTYPE&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Biomass-Derived%20Activated%20Carbon%20Electrodes&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=R%20M%20PRIYADHARSHINI&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Materials%20and%20Nanoscience%20Researcher&descAlignY=55&descSize=20" width="100%" alt="header banner"/>
 
-![Institution](https://img.shields.io/badge/IIT%20Madras-Dept.%20of%20Metallurgical%20and%20Materials%20Engineering-1B2A4A?style=for-the-badge)
-![Guide](https://img.shields.io/badge/Guided%20by-Prof.%20Tiju%20Thomas-D4AF37?style=for-the-badge)
-![Duration](https://img.shields.io/badge/May%202025-Jul%202025-2E6F95?style=for-the-badge)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=D4AF37&center=true&vCenter=true&width=800&lines=Nanostructured+Nd%E2%82%82O%E2%82%83+for+X-Ray+Shielding;Biomass-Derived+Supercapacitor+Electrodes;XRD+%C2%B7+FTIR+%C2%B7+TEM+%C2%B7+UV-DRS+%C2%B7+CV+%C2%B7+GCD+%C2%B7+EIS;GATE+2026+Qualified+%E2%80%94+Physics+%28PH%29" alt="typing banner" />
+</a>
+
+<br/><br/>
+
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Relocate%20%E2%80%94%20Bengaluru-1B2A4A?style=for-the-badge)
+![Degree](https://img.shields.io/badge/M.Sc.-Nanoscience%20%26%20Nanotechnology-1B2A4A?style=for-the-badge)
+![GATE](https://img.shields.io/badge/GATE%202026-Qualified%20%7C%20Score%20399-D4AF37?style=for-the-badge)
 
 </div>
 
 <br/>
 
-## 📋 Repository Description
-
-> Fabrication and electrochemical evaluation (CV, GCD, EIS) of bamboo-derived activated carbon electrodes for supercapacitors, carried out during an M.Sc. research internship at IIT Madras under Prof. Tiju Thomas — 43.33 F/g specific capacitance in a 2-electrode device and 26.66 F/g in a 3-electrode setup.
-
-<sub>Use the line above as the GitHub repo "About" description (fits within the character limit).</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=ABOUT%20ME&fontSize=28&fontColor=fff&fontAlignY=55" width="100%" alt="about me section header"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=PROJECT%20OVERVIEW&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="project overview section header"/>
+M.Sc. Nanoscience and Nanotechnology graduate (University of Madras) with hands-on research across **materials synthesis, structural characterization, and electrochemical evaluation of energy-storage materials**.
 
-This project developed and electrochemically evaluated **biomass-derived activated carbon** for supercapacitor applications, converting agricultural waste (bamboo powder, with paddy waste also explored) into a sustainable, low-cost electrode material.
+My dissertation engineered nanostructured **Nd₂O₃ for X-ray shielding**, and my research internship at **IIT Madras** took biomass-derived carbon from raw material to a working supercapacitor electrode — spanning synthesis, characterization, and electrochemical testing end to end.
 
-The carbon precursor was processed through **KOH activation, hydrothermal treatment, carbonization, and purification** to produce a highly porous activated carbon with enhanced surface area. This material was formed into a PVDF-based slurry, coated onto nickel foam electrodes, and evaluated in both **two-electrode** (real device configuration) and **three-electrode** (intrinsic material characterization) setups.
-
-- 🎯 **Goal:** Convert agricultural bio-waste into a viable, eco-friendly supercapacitor electrode material
-- ⚙️ **Techniques used:** Cyclic Voltammetry (CV), Galvanostatic Charge–Discharge (GCD), Electrochemical Impedance Spectroscopy (EIS)
-- 🏭 **Host lab:** Department of Metallurgical and Materials Engineering, IIT Madras
-- 👩‍🏫 **Mentored by:** Prof. Tiju Thomas, with lab guidance from research scholar Ms. Sindhu
+- 🔭 **Researching:** Materials characterization, phase transformations, functional & energy-storage materials
+- 📍 **Based in:** Chennai, Tamil Nadu — open to relocating to Bengaluru
+- 🎯 **Seeking:** R&D / JRF roles in materials science, nanomaterials, energy materials
+- ✉️ **Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=METHODOLOGY&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="methodology section header"/>
-
-<details open>
-<summary><b>⚗️ 1. Activated Carbon Synthesis</b></summary>
-<br/>
-
-**Step 1 — Activation:** Bamboo powder was mixed with KOH solution (1:2 ratio) and stirred for 8 hours at room temperature, then oven-dried overnight at 90°C to form a solid precursor.
-
-**Step 2 — Carbonization:** The dried solid was subjected to a tubular furnace under inert N₂ gas for 2 hours at 800°C, followed by centrifuging with 6 wt% HCl and DI water, then dried overnight at 90°C to yield the final activated carbon.
-
-</details>
-
-<details open>
-<summary><b>🧽 2. Nickel Foam Preparation</b></summary>
-<br/>
-
-- Ni foam cut to size — circular pieces for the 2-electrode Swagelok cell, 1.5 cm × 1 cm strips for the 3-electrode setup
-- Cleaned via sequential sonication: HCl wash (8.3 mL 37% HCl + 100 mL DI water, 10 min) → acetone wash (5 min) → DI water wash (5 min)
-- Dried in oven (12–16 hrs at 60°C, or 6 hrs at 80°C) and stored separately by electrode type
-
-</details>
-
-<details open>
-<summary><b>🎨 3. Slurry Preparation and Coating</b></summary>
-<br/>
-
-Active material slurry composition: **85% activated carbon · 10% conducting carbon (carbon black) · 5% PVDF binder**, mixed with NMP solvent and applied to nickel foam via brush coating (80% surface coverage), then oven-dried for 6 hours at 80°C.
-
-</details>
-
-<details open>
-<summary><b>🔋 4. Cell Assembly</b></summary>
-<br/>
-
-| | 2-Electrode System | 3-Electrode System |
-|---|---|---|
-| **Configuration** | Symmetric cell, Swagelok assembly | Working (Ni foam) + Counter (Pt) + Reference (Hg/HgO SCE) |
-| **Purpose** | Real device-level performance | Intrinsic material characterization |
-| **Electrolyte** | KOH (1M–6M) in DI water | KOH (1M or 6M) in DI water |
-
-</details>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=KEY%20RESULTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="key results section header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=HIGHLIGHTED%20ACHIEVEMENTS&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="highlighted achievements section header"/>
 
 <div align="center">
-
-| Metric | 2-Electrode System | 3-Electrode System |
-|---|:---:|:---:|
-| **Specific Capacitance** | 43.33 F g⁻¹ | 26.66 F g⁻¹ |
-| **Charge-Transfer Resistance (Rct)** | 84.997 Ω | 112.85 Ω |
-| **Series Resistance (Rs)** | 1.094 Ω | 3.248 Ω |
-
-</div>
-
-**Cyclic Voltammetry:** Both configurations showed stable, quasi-rectangular CV curves across scan rates (10–100 mV/s), indicating capacitive behavior with efficient charge storage.
-
-**GCD:** Near-triangular charge–discharge profiles confirmed capacitive behavior, with discharge time and IR drop used to derive capacitance and internal resistance.
-
-**EIS:** Nyquist plots showed low series resistance and a distinct mid-frequency semicircle (charge-transfer resistance), with a sloped Warburg region at low frequency confirming efficient ion diffusion through the porous carbon structure.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=WHY%20SUPERCAPACITORS&fontSize=22&fontColor=fff&fontAlignY=55" width="100%" alt="why supercapacitors section header"/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-**✅ Advantages**
-- High power density, fast charge–discharge
-- Long cycle life (100,000+ cycles)
-- Wide operating temperature range
-- Above 95% energy efficiency
-- Eco-friendly with biomass-derived carbon
-- Low maintenance, high safety
-
+<td align="center" width="25%">
+<h3>🥇</h3>
+<b>GATE 2026</b><br/>
+Physics (PH)<br/>
+<b>Score 399</b> · Marks 29.0<br/>
+<sub>Valid till Mar 2029</sub>
 </td>
-<td width="50%" valign="top">
 
-**⚠️ Limitations**
-- Lower energy density than Li-ion batteries
-- High self-discharge rate
-- Limited operating voltage per cell
-- Bulkier than batteries for equal energy
-- Not suited for long-duration storage
-
+<td align="center" width="25%">
+<h3>🧪</h3>
+<b>IIT Madras</b><br/>
+Research Internship<br/>
+Supercapacitor Electrodes<br/>
+<sub>May – Jul 2025</sub>
 </td>
+
+<td align="center" width="25%">
+<h3>☢️</h3>
+<b>M.Sc. Dissertation</b><br/>
+Nd₂O₃ X-Ray Shielding<br/>
+Full synthesis-to-testing pipeline<br/>
+<sub>Dec 2025 – Apr 2026</sub>
+</td>
+
+<td align="center" width="25%">
+<h3>📜</h3>
+<b>5 Certifications</b><br/>
+CVD · Photonics · Plastics Tech<br/>
+Origin & MathType · Floranix<br/>
+<sub>2023 – 2026</sub>
+</td>
+
 </tr>
 </table>
 
-**Applications:** Electric vehicles and hybrids · Backup power (UPS, data centres) · Renewable energy stabilization · Portable electronics · Grid-level load levelling · Industrial and transportation systems · IoT devices
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=CONCLUSION&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="conclusion section header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=CORE%20EXPERTISE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="core expertise section header"/>
 
-This internship provided hands-on experience across the full materials pipeline — synthesis, activation, carbonization, electrode fabrication, device assembly, and electrochemical characterization. The comparative two-electrode and three-electrode analysis demonstrated that bamboo-derived activated carbon is a viable, sustainable, low-cost electrode material for high-performance supercapacitors, with results supporting its potential in renewable energy storage and electric mobility applications.
+<div align="center">
+
+**🔬 Materials Characterization**
+<br/>
+![XRD](https://img.shields.io/badge/XRD-1B2A4A?style=for-the-badge)
+![Rietveld](https://img.shields.io/badge/Rietveld%20Refinement-1B2A4A?style=for-the-badge)
+![FTIR](https://img.shields.io/badge/FTIR-1B2A4A?style=for-the-badge)
+![UV-DRS](https://img.shields.io/badge/UV--DRS-1B2A4A?style=for-the-badge)
+![TEM](https://img.shields.io/badge/TEM-1B2A4A?style=for-the-badge)
+![SAED](https://img.shields.io/badge/SAED-1B2A4A?style=for-the-badge)
+
+**⚡ Electrochemical Characterization**
+<br/>
+![CV](https://img.shields.io/badge/Cyclic%20Voltammetry-2E6F95?style=for-the-badge)
+![GCD](https://img.shields.io/badge/Galvanostatic%20Charge--Discharge-2E6F95?style=for-the-badge)
+![EIS](https://img.shields.io/badge/EIS-2E6F95?style=for-the-badge)
+
+**⚗️ Nanomaterial Synthesis**
+<br/>
+![Precipitation](https://img.shields.io/badge/Precipitation-6B4F8F?style=for-the-badge)
+![Calcination](https://img.shields.io/badge/Calcination-6B4F8F?style=for-the-badge)
+![Pellet Fabrication](https://img.shields.io/badge/Pellet%20Fabrication-6B4F8F?style=for-the-badge)
+
+**💻 Data Analysis & Software**
+<br/>
+![Origin](https://img.shields.io/badge/OriginLab-D4AF37?style=for-the-badge&logoColor=black)
+![ImageJ](https://img.shields.io/badge/ImageJ-D4AF37?style=for-the-badge&logoColor=black)
+![ZSimpWin](https://img.shields.io/badge/ZSimpWin-D4AF37?style=for-the-badge&logoColor=black)
+![FPS](https://img.shields.io/badge/FPS%20Refinement-D4AF37?style=for-the-badge&logoColor=black)
+![MS Office](https://img.shields.io/badge/Microsoft%20Office-D4AF37?style=for-the-badge&logoColor=black)
+
+**🧰 Laboratory & Research Skills**
+<br/>
+![Sample Prep](https://img.shields.io/badge/Sample%20Preparation-4A5A6A?style=for-the-badge)
+![Instrument Handling](https://img.shields.io/badge/Instrument%20Handling-4A5A6A?style=for-the-badge)
+![GLP](https://img.shields.io/badge/Good%20Laboratory%20Practices-4A5A6A?style=for-the-badge)
+![Technical Writing](https://img.shields.io/badge/Technical%20Report%20Writing-4A5A6A?style=for-the-badge)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=65&section=header&text=ACKNOWLEDGEMENTS&fontSize=22&fontColor=fff&fontAlignY=55" width="100%" alt="acknowledgements section header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20EXPERIENCE&fontSize=26&fontColor=fff&fontAlignY=55" width="100%" alt="research experience section header"/>
 
-Sincere thanks to **Prof. Tiju Thomas** (Dept. of Metallurgical and Materials Engineering, IIT Madras) for the opportunity to work in his research group, to **Ms. Sindhu** for guidance and mentoring throughout the internship, and to **Dr. Ilangovan** (Head of Department, University of Madras) for recommending and enabling this internship.
-
+<details open>
+<summary><b>🧪 M.Sc. Research Intern · Indian Institute of Technology Madras</b> &nbsp;<sub>May 2025 – Jul 2025</sub></summary>
 <br/>
+
+**Supercapacitor Electrode Fabrication and Electrochemical Testing**
+
+- Fabricated biomass-derived activated carbon electrodes for supercapacitor applications
+- Assembled and evaluated 2-electrode and 3-electrode supercapacitor systems
+- Performed electrochemical characterization using CV, GCD, and EIS techniques
+- Analysed electrochemical data using Origin and ZSimpWin software
+
+</details>
+
+<details open>
+<summary><b>☢️ M.Sc. Dissertation · University of Madras</b> &nbsp;<sub>Dec 2025 – Apr 2026</sub></summary>
+<br/>
+
+**Synthesis and Characterization of Neodymium Oxide for X-Ray Shielding Applications**
+
+- Synthesized nanostructured Nd₂O₃ using precipitation and calcination methods
+- Characterized materials using XRD, FTIR, UV-DRS, TEM, and SAED
+- Evaluated X-ray shielding performance of fabricated Nd₂O₃ pellets
+- Performed particle-size and structural analysis using ImageJ and Origin
+
+</details>
 
 <details>
-<summary><b>📚 References (14)</b></summary>
+<summary><b>🔧 B.Sc. Intern · Floranix</b> &nbsp;<sub>18 – 29 May 2023</sub></summary>
 <br/>
 
-1. Conway, B. E. — *Electrochemical Supercapacitors: Scientific Fundamentals and Technological Applications*, Springer, 1999
-2. Simon, P. and Gogotsi, Y. — Materials for electrochemical capacitors, *Nature Materials*, 2008
-3. Miller, J. R. and Simon, P. — Electrochemical capacitors for energy management, *Science*, 2008
-4. Frackowiak, E. and Béguin, F. — Carbon materials for electrochemical storage, *Carbon*, 2001
-5. Pandolfo, A. G. and Hollenkamp, A. F. — Carbon properties in supercapacitors, *Journal of Power Sources*, 2006
-6. Wang, G., Zhang, L., and Zhang, J. — Review of electrode materials, *Chemical Society Reviews*, 2012
-7. Portet, C. et al. — Electrochemical characterisation of carbon nanotube composites, *Electrochimica Acta*, 2005
-8. Bard, A. J. and Faulkner, L. R. — *Electrochemical Methods*, 2nd ed., Wiley, 2001
-9. Kötz, R. and Carlen, M. — Principles and applications of electrochemical capacitors, *Electrochimica Acta*, 2000
-10. Zhang, L. L. and Zhao, X. — Carbon-based supercapacitor electrodes, *Chemical Society Reviews*, 2009
-11. Sevilla, M. and Fuertes, A. B. — Sustainable porous carbons from biomass, *ACS Nano*, 2010
-12. Wang, D. W. et al. — Boron-doped mesoporous carbon, *Chemistry of Materials*, 2008
-13. Trasatti, S. and Petrii, O. A. — Real surface area measurements, *Pure and Applied Chemistry*, 1991
-14. Macdonald, J. R. (Ed.) — *Impedance Spectroscopy*, Wiley, 1987
+**Bluetooth-Controlled Door Automation System**
+
+- Developed an embedded door automation system using ATmega328 and HC-05 Bluetooth module
+- Integrated Android-based wireless control with servo motor operation
+- Performed circuit assembly, programming, and system testing
 
 </details>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=FEATURED%20RESEARCH%20PROJECTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="featured research projects section header"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Internship%20Report%20by%20R%20M%20Priyadharshini&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="footer banner"/>
+| Project | Focus | Highlights |
+|---|---|---|
+| **☢️ Nd₂O₃ for X-Ray Shielding** <br/><sub>M.Sc. Dissertation</sub> | Nanostructured oxide synthesis & shielding evaluation | Precipitation–calcination synthesis · XRD/FTIR/UV-DRS/TEM/SAED · pellet-level shielding testing |
+| **⚡ Activated Carbon Supercapacitor Electrodes** <br/><sub>IIT Madras Internship</sub> | Biomass-derived electrode development | 2- & 3-electrode assembly · CV/GCD/EIS · ZSimpWin impedance modeling |
+| **🧫 UV-Vis Quantification of Biomolecules** <br/><sub>B.Sc. Final Year Project</sub> | Spectrophotometric bioanalysis | Beer–Lambert calibration curves for glucose, cholesterol, protein & haemoglobin |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=EDUCATION%20AND%20QUALIFICATIONS&fontSize=20&fontColor=fff&fontAlignY=55" width="100%" alt="education and qualifications section header"/>
+
+<div align="center">
+
+| Degree | Institution | Duration | Score |
+|---|---|:---:|:---:|
+| M.Sc. Nanoscience & Nanotechnology | University of Madras, Chennai | 2024 – 2026 | CGPA 7.362 |
+| B.Sc. Physics | JBAS College for Women, Chennai | 2021 – 2024 | CGPA 7.451 |
+
+**Certifications:** Semiconductor Materials & CVD Device Structures (Feb 2024) · Photonics and its Applications (Jan 2024) · Fundamentals of Plastics Technology Workshop (Mar 2026) · Scientific Software Tools — Origin & MathType (Jun 2023) · Floranix Internship (Feb 2024)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=RESEARCH%20INTERESTS&fontSize=24&fontColor=fff&fontAlignY=55" width="100%" alt="research interests section header"/>
+
+<div align="center">
+
+![Materials Characterization and Structural Analysis](https://img.shields.io/badge/Materials%20Characterization%20%26%20Structural%20Analysis-1B2A4A?style=flat-square)
+![Materials Interfaces and Phase Transformations](https://img.shields.io/badge/Materials%20Interfaces%20%26%20Phase%20Transformations-1B2A4A?style=flat-square)
+![Advanced Functional Materials](https://img.shields.io/badge/Advanced%20Functional%20Materials-1B2A4A?style=flat-square)
+![Nanomaterials and Nanostructured Materials](https://img.shields.io/badge/Nanomaterials%20%26%20Nanostructured%20Materials-1B2A4A?style=flat-square)
+![Energy-Storage Materials](https://img.shields.io/badge/Energy--Storage%20Materials-1B2A4A?style=flat-square)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Open%20to%20Research%20Collaboration&fontSize=18&fontColor=fff&animation=twinkling" width="100%" alt="footer banner"/>
 
 </div>
