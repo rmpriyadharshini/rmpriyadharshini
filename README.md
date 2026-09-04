@@ -25,7 +25,7 @@ M.Sc. Nanoscience and Nanotechnology graduate (University of Madras) with hands-
 My dissertation engineered nanostructured **Nd₂O₃ for X-ray shielding**, and my research internship at **IIT Madras** took biomass-derived carbon from raw material to a working supercapacitor electrode — spanning synthesis, characterization, and electrochemical testing end to end.
 
 - 🔭 **Researching:** Materials characterization, phase transformations, functional & energy-storage materials
-- 📍 **Based in:** Chennai, Tamil Nadu — open to relocating to Bengaluru
+- 📍 **Based in:** Chennai, Tamil Nadu — open to relocating
 - 🎯 **Seeking:** R&D / JRF roles in materials science, nanomaterials, energy materials
 - ✉️ **Reach me:** [rmpriyadharshini1234@gmail.com](mailto:rmpriyadharshini1234@gmail.com) · [LinkedIn](https://linkedin.com/in/rmpriyadharshini)
 
